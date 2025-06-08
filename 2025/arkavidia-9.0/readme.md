@@ -66,7 +66,9 @@ member:
 
 ## abstract art {#abstractart}
 ### overview
-  Diberikan dua buah gambar badut 🤡🤡. Dua gambar ini gaada bedanya cuma beda scale dan kami tau ini adalah gambar enkripsi yang digenerate namanya piet, buat decodenya kita bisa make [Piet IDE](https://gabriellesc.github.io/piet/) tapi disini kita harus stop in di akhir garis merah itu kalo ga bakal ke loop dan ke replace semua.
+  Diberikan dua buah gambar badut 🤡🤡. 
+  ![badut](https://raw.githubusercontent.com/pajarori/ctf/refs/heads/main/2025/arkavidia-9.0/files/abstractart-1.png)
+  Dua gambar ini gaada bedanya cuma beda scale dan kami tau ini adalah gambar enkripsi yang digenerate namanya piet, buat decodenya kita bisa make [Piet IDE](https://gabriellesc.github.io/piet/) tapi disini kita harus stop in di akhir garis merah itu kalo ga bakal ke loop dan ke replace semua.
 
 ### flag
   ARKAV{p1x315_po3try}
