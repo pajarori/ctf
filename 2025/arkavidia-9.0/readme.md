@@ -59,7 +59,7 @@ member:
   Ada bug yaitu dia nge send eth dulu baru ngurangin balance jadi kalau kita panggil withdraw lagi sebelum balance dikurangi itu bisa ngedrain balance BabyETH nya. Untuk itu kita buat script exploitnya dibawah.
 
 ### code
-  [babyeth.py](https://raw.githubusercontent.com/pajarori/ctf/refs/heads/main/2025/arkavidia-9.0/files/ExploitBabyeth.sol)
+  [ExploitBabyeth.sol](https://raw.githubusercontent.com/pajarori/ctf/refs/heads/main/2025/arkavidia-9.0/files/ExploitBabyeth.sol)
 
 ### flag
   ARKAV{b4by_dUlu_y4k!!f1n4L_4rKaV_b4rU_so4L_bLokc3nG_h4rD}
