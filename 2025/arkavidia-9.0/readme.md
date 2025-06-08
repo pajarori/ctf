@@ -30,7 +30,7 @@ member:
 ## babyeth {#babyeth}
 ### overview
   Goal pada chall ini adalah buat nge drain balance, kalo kita lihat dari script BabyETH.sol:
-  ```solidity
+  ```solidity showLineNumbers
   // SPDX-License-Identifier: MIT
   pragma solidity ^0.8.0;
 
