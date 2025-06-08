@@ -2,7 +2,7 @@
 title: Arkavidia 9.0 Quals
 date: 2025-03-15
 team: N2L - Sotong Always Sad
-member:
+player:
   - pajarori
   - 53buahapel
   - kirisaki
