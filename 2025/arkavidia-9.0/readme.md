@@ -71,7 +71,7 @@ member:
 ### flag
   ARKAV{p1x315_po3try}
 
-# [reverrse engineering]
+# [reverse engineering]
 
 ## pyrev {#pyrev}
 ### overview
