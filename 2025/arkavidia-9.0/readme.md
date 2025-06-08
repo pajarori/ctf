@@ -77,7 +77,7 @@ member:
 
 ## pyrev {#pyrev}
 ### overview
-  Diberikan python program yang menuliskan machine code langsung ke memori dan menjalankannya untuk memeriksa input (flag). Program tersebut memanipulasi setiap byte dari flag yang kita masukkan, lalu membandingkannya dengan nilai heks tertentu. Cara nge solve nya kita tinggal “membalik” proses itu serta brute force byte demi byte—sampai kita menemukan input (flag) yang menghasilkan output hex yang sesuai dengan expected hex. Dengan cara itu, kita bisa mendapatkan flag asli yang valid.
+  Diberikan python program yang menuliskan machine code langsung ke memori dan menjalankannya untuk memeriksa input (flag). Program tersebut memanipulasi setiap byte dari flag yang kita masukkan, lalu membandingkannya dengan nilai heks tertentu. Cara nge solve nya kita tinggal "membalik" proses itu serta *brute force* byte demi byte—sampai kita menemukan input (flag) yang menghasilkan output hex yang sesuai dengan expected hex. Dengan cara itu, kita bisa mendapatkan flag asli yang valid.
 
 ### code
   [pyrev.py](https://raw.githubusercontent.com/pajarori/ctf/refs/heads/main/2025/arkavidia-9.0/files/pyrev.py)
