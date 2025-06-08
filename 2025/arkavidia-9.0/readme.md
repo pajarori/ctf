@@ -24,7 +24,7 @@ member:
   ```
 
 ### code
-  [beatfrendy.py](https://praditya.dev/writeup/arkavidia9.0/beatfrendy.py.txt)
+  [beatfrendy.py](https://raw.githubusercontent.com/pajarori/ctf/refs/heads/main/2025/arkavidia-9.0/files/beatfrendy.py)
 
 ### flag
   ARKAV{GoodLuck_and_HaveFun_SampaiJumpaDiBandung}
