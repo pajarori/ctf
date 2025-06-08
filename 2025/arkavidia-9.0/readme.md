@@ -10,7 +10,7 @@ member:
 
 # [miscellaneous] 
 
-## 100% free flag {#100%freeflag}
+## 100% free flag {#100freeflag}
 ### overview
   Pada chall ini, terdapat flag namun terbalik textnya, tinggal reverse untuk mendapatkan flag yang benar.
 
