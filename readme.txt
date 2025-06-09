@@ -1,1 +1,1 @@
-https://www.praditya.dev/writeup
+https://praditya.dev/writeup
