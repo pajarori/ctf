@@ -1,6 +1,6 @@
 ---
 title: Slashroot 8 Quals
-date: 2025-03-15
+date: 2024-09-24
 team: N2L - Sigma
 member:
   - pajarori
@@ -49,7 +49,7 @@ slashroot8{it_is_really_private_UwU}
 # [cryptography]
 ## baby encrypt {#babyencrypt}
 ### overview
-Diberikan file python yang tampaknya di obfus dan dia sepertinya melakukan aes decrypt dan encrypt, namun ketika saya melihat kodingan ini saya hanya fokus pada bagian `print(eval(_d(_ct, _K, _I)))` dan `from secret import FLAG as _F`. Terdapat eval dan kemudian variable FLAG di *import sebagai _F* disini saya tanpa Slashroot 8.0 | N2L 11 mementingkan segala enkripsi yang terjadi di script ini, saya melakukan brute force untuk mendapatkan variable _F yang hanya 2 byte dan berharap bisa dieksekusi oleh eval() yang kemudian di print().
+Diberikan file python yang tampaknya di obfus dan dia sepertinya melakukan aes decrypt dan encrypt, namun ketika saya melihat kodingan ini saya hanya fokus pada bagian *print(eval(_d(_ct, _K, _I)))* dan *from secret import FLAG as _F*. Terdapat eval dan kemudian variable FLAG di *import sebagai _F* disini saya tanpa Slashroot 8.0 | N2L 11 mementingkan segala enkripsi yang terjadi di script ini, saya melakukan brute force untuk mendapatkan variable _F yang hanya 2 byte dan berharap bisa dieksekusi oleh eval() yang kemudian di print().
 ![babyencrypt-1](https://raw.githubusercontent.com/pajarori/ctf/refs/heads/main/2024/slashroot8/images/babyencrypt-1.png)
 ### code
 [babyencrypt.py](https://raw.githubusercontent.com/pajarori/ctf/refs/heads/main/2024/slashroot8/files/babyencrypt.py)
