@@ -1,1 +1,1 @@
-ctf archives
+https://www.praditya.dev/writeup
