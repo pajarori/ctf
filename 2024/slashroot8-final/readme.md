@@ -1,5 +1,5 @@
 ---
-title: Slashroot 8 Quals
+title: Slashroot 8 Final
 date: 2024-10-1
 team: N2L - Sigma
 member:
